@@ -1,5 +1,5 @@
-//../src/Player.js
-//../src/Song.js
+///<reference path="../src/Player.js"/>
+///<reference path="../src/Song.js"/>
 
 describe("Player", function() {
   var player;
