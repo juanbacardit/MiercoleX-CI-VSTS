@@ -1,3 +1,6 @@
+//../src/Player.js
+//../src/Song.js
+
 describe("Player", function() {
   var player;
   var song;
